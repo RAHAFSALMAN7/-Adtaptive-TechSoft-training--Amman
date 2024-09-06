@@ -88,8 +88,6 @@ you are free to make more jest testing on your version of the project.
 npm run build to get the live version of a new build after you have installed the packages and setup new environment keys and added them to the server functions in a proper way.
 
 
-## ✍️ Authors <a name = "authors"></a>
-
-- [@menoo20](https://github.com/menoo20) - Idea & Initial work
+ 
 
 
